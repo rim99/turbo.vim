@@ -4,7 +4,7 @@ I missed the colors of Borland's Turbo Pascal and Turbo C++ for DOS, so I tried 
 
 ----------------
 
-I found this Vim color theme from <vimcolors.com>.
+I found this Vim color theme from [vimcolors.com]().
 
 I modified this theme to fit for my termianl's semi-transparent DARK PURPLE background.
 
